@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://suatahmetportfolyo.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=B08D57&center=true&vCenter=true&width=640&lines=Fikirleri+web+deneyimlerine+d%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCyorum;Three.js+ve+WebGL+ile+taray%C4%B1c%C4%B1da+3D;Sade.+H%C4%B1zl%C4%B1.+Ak%C4%B1lda+kalan.;Devam%C4%B1+yaz%C4%B1l%C4%B1yor..." alt="Yazı animasyonu">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=B08D57&center=true&vCenter=true&width=640&lines=Fikir+benden%2C+h%C4%B1z+yapay+zekadan;H%C4%B1zl%C4%B1%2C+%C5%9F%C4%B1k+ve+animasyonlu+web+siteleri;Sade.+H%C4%B1zl%C4%B1.+Ak%C4%B1lda+kalan.;Devam%C4%B1+yaz%C4%B1l%C4%B1yor..." alt="Yazı animasyonu">
   </a>
 </p>
 
@@ -18,18 +18,18 @@
 
 ### 👋 Merhaba, ben Suat
 
-Merakla kod yazan, detaylara takılan bir web geliştiriciyim. Bir fikri alıp sade, hızlı ve akılda kalan bir web deneyimine çevirmeyi seviyorum.
+Fikir benden, hız yapay zekadan. Yapay zeka araçlarıyla çalışarak herkes için hızlı, şık ve animasyonlu web siteleri tasarlıyor, geliştiriyor ve yayına alıyorum.
 
 - 🎓 Atatürk Üniversitesi · **Bilgisayar Programcılığı** (2. sınıf)
 - 📜 **MEB onaylı** Yazılım ve Veri Tabanı Uzmanlığı sertifikası
-- 🧪 Şu an: **Three.js ve WebGL** ile tarayıcıda 3D deneyimler kuruyorum
-- 🤖 Yapay zeka araçlarıyla tasarlıyor, geliştiriyor ve yayına alıyorum
+- 🤖 Yapay zekayla **animasyonlu ve 3D web siteleri** üretiyorum
+- 💡 Bir fikrin mi var? Birlikte siteye dönüştürelim
 - 📍 İstanbul, Türkiye
 
 ### 🛠️ Kullandıklarım
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,threejs,python,mysql,git,github,netlify,vscode&perline=10&theme=light" alt="Kullandığım araçlar">
+  <img src="https://skillicons.dev/icons?i=html,css,js,threejs,python,mysql,git,github,netlify,vscode,claude&perline=11&theme=light" alt="Kullandığım araçlar">
 </p>
 
 ### ✨ Öne çıkan proje
@@ -52,7 +52,8 @@ const suat = {
   simdi:      "Yapay zekayla siteler tasarlamak ve yayına almak",
   sonraki:    "Devamı yazılıyor…",
 };
+```
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B99A68,100:E8D4AE&height=120&section=footer" alt="" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B99A68,100:E8D4AE&height=120&section=footer" alt="" width="100%">
 </p>
